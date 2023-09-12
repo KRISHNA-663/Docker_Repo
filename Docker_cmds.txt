@@ -1,4 +1,4 @@
-------Docker commands------
+                                                    ------Docker commands------
 
 docker ls -> It is used to list all running containers.
 docker ps -a -> This command will show you the stopped container as well, if any exist in your system.
