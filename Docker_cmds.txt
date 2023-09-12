@@ -1,0 +1,13 @@
+------Docker commands------
+
+docker ls -> It is used to list all running containers.
+docker ps -a -> This command will show you the stopped container as well, if any exist in your system.
+docker images -> To see a list of docker images available on our local machine and their respective tags/versions.
+docker rm (Container name/ID) -> It is used to remove a container.
+docker rmi (Image ID) -> It is used to delete an image from local repository or registry.
+docker pull (Image) -> It is used to download a container image from a registry.
+docker stop (Container name/ID) -> It is used to stop a running container.
+docker exec -it (Container name/ID) (script) -> It is used to execute a command inside a running container.
+
+
+                                                    ---- Hope it was helpful ----
