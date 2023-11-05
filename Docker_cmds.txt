@@ -11,4 +11,6 @@ docker exec -it (Container name/ID) (script) -> It is used to execute a command 
 docker run --name "container_name" (image:tag) [command] -> It is used to create and start new container with specified parameters.
 docker run --name <container_name> (-d/-p 80:3001) (<image>) -> To create and start.
 
+
+
                                                     ---- Hope it was helpful ----
